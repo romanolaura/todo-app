@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+.completed {
+    text-decoration: line-through;
+}
+
+.todo-item {
+    font-family: 'Satisfy', cursive;
+    font-size: 17px;
+}

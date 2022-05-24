@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+.submit {
+    margin-right: 10px;
+}
+
+.button {
+    margin-top: 10px;
+}
+
+.input {
+    font-family: 'Satisfy', cursive;
+    font-size: 17px;
+}
